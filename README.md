@@ -48,6 +48,6 @@ I am actively honing my coding skills on platforms like [HackerRank](https://www
 ## Let's Connect!
 - **GitHub**: [SRT53](https://github.com/SRT53/Data_Science_Portfolio)
 - **HackerRank**: [HackerRank Profile](https://www.hackerrank.com/profile/suhasreddy53)
-- **LinkedIn**: [Your LinkedIn Profile] (#)(https://www.linkedin.com/in/suhaas-reddy-thakkala-b87963193)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/suhaas-reddy-thakkala-b87963193)
 
 Feel free to explore my projects and reach out if you have any questions, suggestions, or opportunities for collaboration!
