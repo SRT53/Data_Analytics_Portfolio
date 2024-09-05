@@ -4,10 +4,10 @@ Welcome to my Data Science Portfolio! I am a passionate data scientist driven by
 
 Table of Contents
 
-Projects
-About Me
-Skills and Tools
-Let's Connect!
+1. Projects
+2. About Me
+3. Skills and Tools
+4. Let's Connect!
 Projects
 
 Below are some of the key projects in this repository:
