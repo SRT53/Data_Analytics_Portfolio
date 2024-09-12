@@ -27,7 +27,12 @@ Below are some of the key projects in this repository:
 - **Key Skills**: Optimization, Linear Programming, Decision Science.
 - **Tools Used**: Python (SciPy, NumPy), Jupyter Notebook.
 
-### 4. Wine Clustering
+### 4. Waze Churn Prediction
+- **Description**: Developed a predictive model to identify the likelihood of user churn for the Waze navigation app. The project focuses on data analysis, feature engineering, model building, and evaluation to understand key factors driving user churn and improve user retention strategies.
+- **Key Skills**: Churn Prediction, Data Analysis, Feature Engineering, Machine Learning.
+- **Tools Used**: Python (Pandas, Scikit-Learn, Matplotlib, Seaborn), Jupyter Notebook.
+
+### 5. Wine Clustering
 - **Description**: Analyzed wine characteristics and performed clustering to segment different wine types using unsupervised learning algorithms like K-means clustering.
 - **Key Skills**: Clustering, Unsupervised Learning, Data Visualization.
 - **Tools Used**: Python (Scikit-Learn, Matplotlib, Seaborn).
