@@ -1,6 +1,6 @@
-# Data Science Portfolio
+# Data Analytics Portfolio
 
-Welcome to my Data Science Portfolio! I am a passionate data scientist driven by a deep curiosity to uncover patterns and insights from data. This repository showcases a collection of my data science projects, demonstrating my skills in data analysis, machine learning, optimization, and more.
+Welcome to my Data Analytics Portfolio! I am a passionate data scientist driven by a deep curiosity to uncover patterns and insights from data. This repository showcases a collection of my data science projects, demonstrating my skills in data analysis, machine learning, optimization, and more.
 
 ## Table of Contents
 1. [Projects](#projects)
